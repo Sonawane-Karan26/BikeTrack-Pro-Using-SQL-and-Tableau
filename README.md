@@ -5,7 +5,7 @@ The primary goal of this project was to create a data analysis pipeline using SQ
 
 
 Here's a view of the dynamic dashboard created for analysis. Please click on it to view in Tabealu Public.
-[![Tableau Dashboard](https://github.com/Sonawane-Karan26/DA-with-SQL-and-Tableau/blob/main/Dashboard.png)](https://public.tableau.com/views/Data_Viz_Tableau_17322108825190/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Tableau Dashboard](https://github.com/Sonawane-Karan26/BikeTrack-Pro-Using-SQL-and-Tableau/blob/main/Dashboard.png)](https://public.tableau.com/views/Data_Viz_Tableau_17322108825190/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Key Steps in the Project:
 
